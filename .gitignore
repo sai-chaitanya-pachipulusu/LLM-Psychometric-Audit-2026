@@ -1,0 +1,36 @@
+# ── Generated pipeline outputs (recreated by run_audit.py) ──────────────────
+data/
+# Exception: keep the directory itself tracked
+!data/.gitkeep
+
+# ── Raw datasets (too large for Git; download per README instructions) ───────
+raw_data/ASAP/           # 208MB — download via Kaggle API
+# raw_data/LEAF/ is only 31MB JSONL, you may choose to commit it:
+# raw_data/LEAF/
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ── Environment & secrets ─────────────────────────────────────────────────────
+.env
+.env.local
+# .env.example is intentionally tracked (no real secrets)
+
+# ── Temp / scratch files ──────────────────────────────────────────────────────
+tmp_*.py
+scratch_*.py
+*.ipynb_checkpoints/
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini

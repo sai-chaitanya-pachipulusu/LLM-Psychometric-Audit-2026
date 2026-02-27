@@ -1,0 +1,168 @@
+essay_id,human_expert_score,zero_shot_biased_score,decoupled_score,logic_recovered_score,grammar_penalized_score,bias_recovery_delta,extracted_propositions
+ASAP_AAAVUP14319000093862,5,3,4,5,3,1,"- Studying Venus is a worthy pursuit despite its dangers.
+- Venus was once the most Earth-like planet in the solar system.
+- Studying Venus expands human knowledge about the planet.
+- Studying Venus enhances technology for space travel.
+- Venus may have been covered with oceans and supported life long ago.
+- Venus has features analogous to those on Earth.
+- Scientists are interested in Venus's similarities to Earth.
+- Traveling to Venus is dangerous and requires upgraded technology.
+- Enhanced technology is necessary to withstand Venus's harsh conditions.
+- Imagination and innovation are used to expand knowledge about Venus.
+- Human knowledge expands when preparing and learning about Venus.
+- Venus's atmosphere is composed of almost 97% carbon dioxide.
+- Exploring Venus helps people learn from the dangers encountered.
+- Venus and Earth were once sister planets and share common characteristics.
+- Overcoming Venus's dangers involves enhancing technology."
+ASAP_AAATRP14318000659950,5,4,4,4,3,0,"- Technology should be allowed to read students' emotions.
+- It can help teachers understand how students are feeling in the classroom.
+- It is a new and useful application of technology.
+- A computer that reads emotions can inform teachers if a student is doing well or not.
+- Dr. Huang states that a classroom computer could recognize when a student is confused or bored and modify the lesson accordingly.
+- This technology can help students understand subjects they might struggle with if the teacher is unaware of their feelings.
+- Some argue that teachers can help students through other means, such as extra help after school or student-initiated clarification.
+- Dr. Huang notes that most human communication is nonverbal, including emotional communication.
+- Students may not feel comfortable expressing their emotions, so technology can help them succeed in school.
+- Reading emotions can be entertaining, similar to mood rings that change color based on temperature.
+- Technology that reads emotions is like an advanced mood ring.
+- Personalized ads based on emotional reading can be more interesting to users.
+- Some argue that emotion-reading technology is an invasion of privacy.
+- The technology does not read minds but assists with on-screen interactions.
+- Emotion-reading technology is a new and special use of technology.
+- The technology constructs a 3-D model of the face, moving 44 major muscles like human muscles.
+- Dr. Paul Eckman classified six basic emotions and associated them with facial muscle movements.
+- This is a revolutionary advancement in technology.
+- Emotion-reading technology is helpful for educational purposes and interacting with friends.
+- It represents a significant advancement in technology."
+ASAP_5076215,5,3,4,5,3,1,"- The Electoral College should be maintained until it makes a significant error.
+- The Electoral College has functioned effectively with minimal flaws for many years.
+- The Electoral College ensures fair voting for the president based on the number of Senators and state representatives.
+- Every state has the same number of Senators, ensuring equal representation regardless of population size.
+- Small states like Delaware have a voice equal to large states like Texas.
+- A concern about the Electoral College is that people vote for electors, not directly for the president.
+- Electors are typically trusted to vote for their party's nominee.
+- A potential issue is the possibility of a tie in the electoral vote.
+- In the event of a tie, the House of Representatives decides the election, with each state delegation having one vote.
+- There is concern that state representatives may not reflect the majority vote of their state.
+- Representatives are expected to vote according to their state's majority preference.
+- The likelihood of an electoral tie is extremely low.
+- A significant con is the ""disaster factor,"" where the legislature could defy the popular vote.
+- An example of potential legislative interference occurred in 1960 with Louisiana's attempt to replace Democratic electors.
+- Segregation is less of an issue now, reducing the likelihood of such interference.
+- The benefits of the Electoral College outweigh the drawbacks.
+- The Electoral College should be retained as long as it functions properly and is not abused."
+ASAP_AAAOPP13416000036217,5,3,3,4,2,0,"- Driverless cars are considered a bad idea.
+- Drivers have responsibilities to keep themselves, passengers, and other road users safe.
+- The cost of driverless cars would be high, making them unaffordable for most Americans.
+- The term ""driverless"" is misleading as these cars require human intervention in complex situations.
+- Companies should fully develop driverless technology rather than mislead consumers.
+- The production of driverless cars involves significant time and research costs.
+- Historical attempts at creating autonomous vehicles were too expensive.
+- Current technology may not be sufficiently advanced or affordable.
+- The U.S. national debt is high, and producing driverless cars could exacerbate financial issues.
+- Driverless cars could result in unsold inventory due to high costs and lack of buyers.
+- Testing driverless cars is illegal in most states, complicating development.
+- New laws and insurance policies would be required for driverless cars.
+- The cost of these legal and insurance changes would be significant.
+- Liability in accidents involving driverless cars is unclear, raising questions about responsibility.
+- Insurance costs for consumers could increase due to potential accidents.
+- Manufacturers might be held responsible for accidents caused by car malfunctions.
+- Legal and financial implications of accidents involving driverless cars are complex.
+- Major car companies are already developing driverless cars.
+- Only a few U.S. regions currently allow testing of driverless cars.
+- Production costs for driverless cars may not be recouped quickly due to legal restrictions.
+- The development of driverless cars could increase national debt."
+ASAP_AAATRP14318000415019,5,3,5,6,2,2,"- The Facial Action Coding System (FACS) is a new technology that enables computers to identify human emotions.
+- FACS improves accuracy in perceiving the emotions of others.
+- FACS has promising applications for various industries.
+- FACS is valuable in classrooms for reading students' emotional expressions.
+- FACS can recognize when a student is bored or confused.
+- FACS can detect six basic emotions: happiness, surprise, anger, disgust, fear, and sadness.
+- FACS can identify mixed emotions.
+- Teachers often struggle to identify students' emotions like boredom and confusion.
+- Students may fake emotions, making it difficult for teachers to assess their true feelings.
+- FACS can help teachers modify lessons based on students' emotional states.
+- FACS can assist teachers in identifying when students are confused, allowing for better explanations.
+- Many students are disengaged or do not understand topics, and FACS can help address this.
+- Communication is key to success, and FACS can facilitate better communication in classrooms.
+- FACS can help teachers recognize multiple emotions simultaneously.
+- FACS can assist in producing and expressing emotions.
+- Most human communication is nonverbal, including emotional communication.
+- FACS can help teachers engage students more effectively, potentially improving grades and understanding.
+- FACS is valuable for detecting basic and mixed emotions, recognizing boredom and confusion, and aiding in emotional expression and production.
+- Effective communication is often lacking, and FACS can help bridge this gap in classrooms.
+- Teachers can use FACS to better understand and address students' emotional states, improving classroom dynamics."
+ASAP_AAAOPP13416000045274,5,2,5,6,2,3,"- The ""Face"" on Mars is believed by some conspiracy theorists to be created by aliens.
+- Scientific research indicates the ""Face"" is a natural Martian mesa with unusual shadows.
+- NASA and other scientists have investigated the site and found no evidence of alien creation.
+- If the alien theory were true, it would be beneficial and financially advantageous to reveal it.
+- NASA has provided evidence and high-resolution images to disprove the alien theory.
+- NASA's mission is to explore space and provide accurate information to the public.
+- Conspiracy theorists have not provided credible evidence to support their claims.
+- NASA values honesty, diligence, and accuracy in its operations and communications."
+ASAP_AAAVUP14319000055902,5,3,4,5,3,1,"- Venus is one of the brightest points of light in the sky, making it a good starting point for investigation.
+- Venus is called ""The Earth Twin"" due to its similarity in density, size, and distance to Earth.
+- Many spacecraft have been sent to study Venus, but they have been destroyed, possibly explaining the lack of missions in the past thirty years.
+- Venus has a thick atmosphere composed almost entirely of clouds containing sulfuric acid.
+- Venus's extreme environments, including high temperatures and atmospheric pressure, make it challenging to study.
+- Venus has the hottest surface of any planet in the solar system, with temperatures reaching 800 degrees Fahrenheit.
+- Venus's atmospheric pressure is more than 90 times greater than Earth's.
+- Venus's geology and weather include erupting volcanoes, earthquakes, and lightning strikes.
+- Some astronomers believe Venus once had oceans and forms of life, and it still has features similar to Earth, such as valleys, mountains, and craters.
+- NASA has plans to send humans to Venus to gather more information, despite the complications and risks.
+- Astronomers believe that experiencing Venus's conditions firsthand is necessary to gain more knowledge.
+- Some astronomers are developing machines to send to Venus, as they consider landing on its surface impossible.
+- Despite the challenges, there is a belief that curiosity should drive exploration, and NASA continues to innovate and imagine new ways to gather information about Venus."
+ASAP_AAATRP14318000424978,5,3,4,5,3,1,"- The FACS (Facial Action Coding System) is ineffective in classrooms.
+- FACS detects only six emotions based on muscle movements, not genuine emotions.
+- Emotions are shown by facial expressions controlled by involuntary muscle movement.
+- Thomas Huang used mathematical statistics to determine emotions in the ""Mona Lisa"" painting.
+- Emotions were calculated using 3D structures of muscle movement.
+- 44 muscles are involved in differentiating emotions like happiness, surprise, anger, disgust, fear, and sadness.
+- Specific muscles, such as the frontalis pars lateralis and orbicularis oris, are associated with certain emotions.
+- Muscle movements do not definitively prove emotions, as they can be used to cope with other feelings.
+- Actors can control their facial expressions, affecting the accuracy of FACS data.
+- The Facial Feedback Theory suggests facial muscle movements can express and produce emotions.
+- Empathy plays a role in the effectiveness of facial expression analysis.
+- FACS may be more effective in serious situations like funerals, courts, or crime scenes.
+- FACS is not suitable for schools but could be useful for therapeutic counselors.
+- The FACS machine is not very effective due to unexplained variables.
+- The experiment is only effective on empathetic people and those who change facial expressions with mood."
+ASAP_AAAOPP13416000051422,5,3,4,4,5,1,"- Driverless cars simplify the world.
+- Advanced technology increases safety.
+- Current cars are largely operated by computer systems.
+- Humans are not always aware of their surroundings.
+- Driverless cars could reduce pressure on drivers, especially teens.
+- Fuel consumption is a major issue with cars.
+- Driverless cars could reduce fuel consumption.
+- Reduced fuel consumption would benefit the planet's health.
+- Sensors and lasers are key to driverless car technology.
+- Driverless cars would still require a driver on standby.
+- 98% of the energy to operate a driverless car would be done by the car.
+- Technology is advancing rapidly.
+- Driverless cars may soon not require human driving.
+- There is a possibility of creating cars that allow optional manual driving.
+- Driverless cars could be used during traffic or long drives.
+- Safety remains a concern with driverless cars.
+- The development of driverless cars is a significant human achievement.
+- The current generation is innovative and progressing rapidly."
+ASAP_AAAOPP13416000052166,6,3,4,4,3,1,"- Cars were invented to provide easier and safer transportation for humans.
+- Cars were designed to enhance safety and allow efficient travel to destinations.
+- Cars were engineered to be operated by humans, not as self-automated devices.
+- Automated cars are not safe because they rely solely on detectors.
+- Accidents are more likely without human control.
+- Drivers may become distracted or inattentive with self-driven cars.
+- Alerts like flashing lights and vibrating seats may not be effective if the driver is asleep or distracted.
+- Safety is best achieved with alert human drivers.
+- Society is becoming too dependent on technology.
+- Dependence on technology can make people oblivious to their surroundings.
+- Automated cars could lead to further technological dependence.
+- Automated cars may be expensive and unaffordable for many.
+- Only a select demographic may afford self-driven cars.
+- Increased production of self-driven cars could lead to financial issues for manufacturers.
+- Some argue that embracing new technology is necessary for progress.
+- Not all technological advancements are beneficial, such as automated cars.
+- Overreliance on technology can lead to a lack of self-sufficiency.
+- Faulty technology in self-driven cars could lead to legal issues.
+- It is impractical to rely on computers for all tasks.
+- Self-driven cars could hinder societal development and reduce human individuality."
