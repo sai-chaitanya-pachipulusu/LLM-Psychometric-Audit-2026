@@ -1,12 +1,3 @@
----
-title: "A Psychometric Evaluation of LLM-Scored Communication Skills: Construct Validity and Bias Analysis"
-author: "Sai Chaitanya Pachipulusu — Independent Psychometric Auditor"
-date: "February 26, 2026"
-institution: "Independent Research"
---
-
----
-
 <div align="center">
 
 # A Psychometric Evaluation of LLM-Scored Communication Skills

@@ -48,16 +48,7 @@ def generate_report(results: dict) -> str:
     native_qwk     = p1g["QWK"].get("Native", "N/A")
     nonnative_qwk  = p1g["QWK"].get("Non-Native", "N/A")
 
-    report = f"""---
-title: "A Psychometric Evaluation of LLM-Scored Communication Skills: Construct Validity and Bias Analysis"
-author: "Sai Chaitanya Pachipulusu — Independent Psychometric Auditor"
-date: "{today}"
-institution: "Independent Research"
---
-
----
-
-<div align="center">
+    report = f"""<div align="center">
 
 # A Psychometric Evaluation of LLM-Scored Communication Skills
 ## Construct Validity and Bias Analysis
