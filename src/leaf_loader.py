@@ -35,7 +35,7 @@ DEMOGRAPHIC GROUP MAPPING (ASAP 2.0):
 This is the gold standard — explicit demographic labels in a scored corpus.
 No inference heuristic required.
 
-Author: Sai Acharya (Independent Psychometric Audit, 2026)
+Author: Sai Chaitanya Pachipulusu (Independent Psychometric Audit, 2026)
 """
 
 from __future__ import annotations

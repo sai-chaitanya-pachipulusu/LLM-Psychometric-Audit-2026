@@ -5,6 +5,8 @@
 
 **Sai Chaitanya Pachipulusu**  
 *Independent Psychometric Auditor*  
+ORCID: [0009-0009-2757-3275](https://orcid.org/0009-0009-2757-3275)  
+✉ siai.chaitanyap@gmail.com  
 February 2026
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)

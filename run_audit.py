@@ -219,21 +219,21 @@ def main():
     # Pretty-print key results
     _print_summary(results)
 
-    # ── STEP 4: Figures ────────────────────────────────────
+    # ── STEP 6: Figures ────────────────────────────────────
     print("\nSTEP 6/7 — Generating publication figures …")
     generate_all_figures(df, results)
 
-    # ── STEP 5: Research Report ────────────────────────────
+    # ── STEP 7: Research Report ────────────────────────────
     print("\nSTEP 7/7 — Writing ETS-style research report …")
     write_report(results)
 
     elapsed = time.time() - t0
     print(f"\n{'═' * 60}")
     print(f"  ✓  Full audit complete in {elapsed:.1f}s")
-    print(f"  📄  Report → reports/RESEARCH_REPORT.md")
-    print(f"  📊  Figures → reports/figures/")
-    print(f"  💾  Data    → data/scored_corpus.csv")
-    print(f"  📋  Results → data/analysis_results.json")
+    print(f"  Report → reports/RESEARCH_REPORT.md")
+    print(f"  Figures → reports/figures/")
+    print(f"  Data    → data/scored_corpus.csv")
+    print(f"  Results → data/analysis_results.json")
     if SCORING_MODE != "live":
         print(f"\n  ⚠  REMINDER: Results are from MOCK MODE.")
         print(f"     Run with SCORING_MODE=live for real findings.")

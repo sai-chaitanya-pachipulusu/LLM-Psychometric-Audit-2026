@@ -14,7 +14,7 @@ The structure mirrors an ETS Research Report:
   6. Discussion / Conclusion
   7. References
 
-Author: Sai Acharya (Independent Psychometric Audit, 2026)
+Author: Sai Chaitanya Pachipulusu (Independent Psychometric Audit, 2026)
 """
 
 from __future__ import annotations
@@ -55,6 +55,8 @@ def generate_report(results: dict) -> str:
 
 **Sai Chaitanya Pachipulusu**  
 *Independent Psychometric Auditor*  
+ORCID: [0009-0009-2757-3275](https://orcid.org/0009-0009-2757-3275)  
+Contact email: siai.chaitanyap@gmail.com  
 February 2026
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
