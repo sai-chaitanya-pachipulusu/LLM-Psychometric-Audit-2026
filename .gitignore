@@ -4,7 +4,8 @@ data/
 !data/.gitkeep
 
 # ── Raw datasets (too large for Git; download per README instructions) ───────
-raw_data/ASAP/           # 208MB — download via Kaggle API
+# ASAP 2.0: 208MB — download via Kaggle API
+raw_data/ASAP/
 # raw_data/LEAF/ is only 31MB JSONL, you may choose to commit it:
 # raw_data/LEAF/
 
